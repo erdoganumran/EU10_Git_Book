@@ -1,0 +1,14 @@
+this is the start of my book
+
+page 1 will help us get started
+
+
+java is cool
+
+James Bond is always with us
+
+VCS- enable version control - git - ok --> i made my local repository.
+hidden.git folder--> it is not displayed, invisible in my folder
+right click- open in- explorer- you will see your folders nut you can not see hidden ones. look for shortcut or it.
+red: un versioned
+green: ready to be part of a repository
