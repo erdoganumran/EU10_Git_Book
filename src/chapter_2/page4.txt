@@ -1,2 +1,6 @@
 
 trying creating new files to fetch it to intellij
+
+part 2 updates
+
+ adding more information
